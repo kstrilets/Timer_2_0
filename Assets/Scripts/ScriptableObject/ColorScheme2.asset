@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a698f0d06865649ca903f0e9b0565883, type: 3}
+  m_Name: ColorScheme2
+  m_EditorClassIdentifier: 
+  background: {r: 0.53333336, g: 0.6901961, b: 0.29411766, a: 1}
+  darkButtons: {r: 0, g: 0, b: 0, a: 1}
+  lightButtons: {r: 0, g: 0, b: 0, a: 1}
+  mainText: {r: 0, g: 0, b: 0, a: 1}
+  helperText: {r: 0.54901963, g: 0.54901963, b: 0.54901963, a: 1}
